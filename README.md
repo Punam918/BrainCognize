@@ -27,7 +27,7 @@ The goal of this project is to provide a user-friendly mobile app that can assis
   - Pandas
   - Matplotlib / Seaborn for visualizations.
   - Django REST Framework for API.
-
 ## Demo
-![Demo GIF](https://github.com/Punam918/BrainCognize/blob/master/328031141-0d4ecebf-6fa6-4ffc-9302-1d724ed6530f.mp4)
+![Demo GIF]([path/to/demo.gif](https://github.com/user-attachments/assets/eb9a1ae5-b87f-479b-b6e4-29ab6c2e3e44)
+
 

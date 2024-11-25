@@ -28,6 +28,6 @@ The goal of this project is to provide a user-friendly mobile app that can assis
   - Matplotlib / Seaborn for visualizations.
   - Django REST Framework for API.
 ## Demo
-![Demo GIF]([path/to/demo.gif](https://github.com/user-attachments/assets/eb9a1ae5-b87f-479b-b6e4-29ab6c2e3e44)
+![Demo GIF](https://github.com/user-attachments/assets/eb9a1ae5-b87f-479b-b6e4-29ab6c2e3e44)
 
 
